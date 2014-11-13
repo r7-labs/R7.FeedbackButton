@@ -20,6 +20,8 @@
     cursor:pointer
 }
 
+.default-feedback-button:hover { opacity:0.65 }
+
 /*
 .my-feedback-button
 {
