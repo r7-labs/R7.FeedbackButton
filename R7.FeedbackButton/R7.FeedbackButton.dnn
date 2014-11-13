@@ -2,7 +2,7 @@
  <packages>
    <package name="R7.FeedbackButton" type="SkinObject" version="01.00.00">
      <friendlyName>R7.FeedbackButton</friendlyName>
-     <description>This is a simple skin object to display a record from database table.</description>
+     <description>R7.FeedbackButton is a skinobject extension for DNN Platform to use along with the popular DNN Feedback module.</description>
      <owner>
        <name>Roman M. Yagodin</name>
        <organization>R7.Solutions</organization>
