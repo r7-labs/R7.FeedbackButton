@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="63.594723"
-     inkscape:cy="2.3460552"
+     inkscape:zoom="1"
+     inkscape:cx="76.504228"
+     inkscape:cy="-2.3418014"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,25 +58,18 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.34583333"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:1"
        id="rect2982"
        width="48"
        height="48"
        x="0.17677666"
        y="1004.3622"
        ry="4" />
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.7665298;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m -9.1392571,1053.9662 -6.3229529,0.01 -6.322954,-2.9412 -6.322954,2.9412 -6.322955,-0.084 12.758855,-12.5956 z"
-       id="path2983"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
     <g
-       id="g2994"
-       transform="translate(0,-2)">
+       id="g3781">
       <path
-         transform="matrix(1.220352,0,0,1.182473,-6.1347558,1003.3635)"
-         d="m 39.133941,21.140991 c 0,5.082918 -6.465208,9.203437 -14.440446,9.203437 -7.975238,0 -14.440446,-4.120519 -14.440446,-9.203437 0,-5.082918 6.465208,-9.203437 14.440446,-9.203437 7.975238,0 14.440446,4.120519 14.440446,9.203437 z"
+         transform="matrix(1.220352,0,0,1.182473,-6.1347558,1001.3635)"
+         d="m 39.133941,21.140991 a 14.440446,9.2034369 0 1 1 -28.880892,0 14.440446,9.2034369 0 1 1 28.880892,0 z"
          sodipodi:ry="9.2034369"
          sodipodi:rx="14.440446"
          sodipodi:cy="21.140991"
@@ -88,8 +81,26 @@
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="rect2991"
-         d="m 27.223611,1036.0988 -15.379573,0 0,8.8388 z"
+         d="m 27.223611,1034.0988 -15.379573,0 0,8.8388 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3777"
+       transform="translate(-48,-12.500031)">
+      <rect
+         y="1022.8622"
+         x="13"
+         height="3"
+         width="22"
+         id="rect2987"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         y="1027.8622"
+         x="13"
+         height="3"
+         width="22"
+         id="rect2987-9"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
