@@ -24,7 +24,7 @@
         </component>
 		<component type="ResourceFile">
 		 <resourceFiles>
-		   <basePath>DesktopModules\R7.FeedbackButton\R7.FeedbackButton</basePath>
+		   <basePath>DesktopModules\R7.FeedbackButton</basePath>
 		   <resourceFile>
 		     <name>Resources.zip</name>
 		   </resourceFile>
