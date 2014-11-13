@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data xml:space="preserve" name="FeedBackButton.Text">
+        <value></value>
+    </data>
+    <data xml:space="preserve" name="FeedBackButton.Tooltip">
+        <value>If you are found an error in the text, please select it and then press this button.</value>
+    </data>
+</root>

@@ -1,0 +1,41 @@
+﻿.unselectable 
+{
+    -moz-user-select:-moz-none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+
+.default-feedback-button
+{
+    position:fixed;
+    z-index:20;
+    background: transparent url(images/feedback_48x48.png) no-repeat left;
+    bottom:142px;
+    right:20px;
+    width:48px;
+    height:48px;
+    opacity:0.45;
+    cursor:pointer
+}
+
+/*
+.my-feedback-button
+{
+    position:fixed;
+    z-index:20;
+    color:#fff;
+    background-color:green;
+    border-top-left-radius:10px;
+    font-weight:bold;
+    bottom:0;
+    right:0;
+    width:128px;
+    height:32px;
+    text-align:center;
+    line-height:32px;
+    opacity:1;
+    cursor:pointer
+}
+*/
