@@ -4,6 +4,6 @@
         <value></value>
     </data>
     <data xml:space="preserve" name="FeedBackButton.Tooltip">
-        <value>If you are found an error in the text, please select it and then press this button.</value>
+        <value>Press to open feedback form. If you have found an error in the text, please select it first and then press the button.</value>
     </data>
 </root>
