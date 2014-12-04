@@ -66,6 +66,7 @@
     <Content Include="skinobject.css" />
     <Content Include="images\feedback_48x48.png" />
     <Content Include="images\feedback_48x48.svg" />
+    <Content Include="_R7_Feedback_Helper.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

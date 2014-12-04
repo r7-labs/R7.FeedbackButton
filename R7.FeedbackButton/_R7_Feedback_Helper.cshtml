@@ -1,0 +1,21 @@
+@{
+
+var feedbackModuleId = 6947;
+var errorTabId = Request.QueryString["errortabid"] ?? "";
+var errorContext = Request.QueryString["errorcontext"] ?? "";
+
+<script type="text/javascript">
+$(function() {
+    $("#dnn_ctr" + @feedbackModuleId + "_Feedback_cmdSend").attr("onclick", "feedbackPreSend()");
+    $("#dnn_ctr" + @feedbackModuleId + "_Feedback_divStreet").hide();
+    $("#dnn_ctr" + @feedbackModuleId + "_Feedback_divCity").hide();
+});
+
+function feedbackPreSend ()
+{
+    $("#dnn_ctr" + @feedbackModuleId + "_Feedback_txtStreet").val("@errorTabId");
+    $("#dnn_ctr" + @feedbackModuleId + "_Feedback_txtCity").val("@errorContext");
+}
+</script>
+
+}
